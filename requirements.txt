@@ -1,0 +1,4 @@
+flask
+flask_jsglue
+eliza
+jinja2==3.0.1
